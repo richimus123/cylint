@@ -35,7 +35,7 @@ Install
 
 Silent can be simply installed by running::
 
-    pip install silent
+    pip install cylint
 
 
 Testing
